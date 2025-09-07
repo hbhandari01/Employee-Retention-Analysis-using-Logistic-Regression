@@ -36,6 +36,6 @@ The analysis is divided into multiple tasks:
 - Logistic Regression provides a baseline predictive model for attrition.
 
 ---
+📌 Author
 
-## 👨‍💻 Author
-**Himanshu Bhandari**
+👤 Himanshu Bhandari 🚀 Data Analyst | Mechanical Engineer turned Data Enthusiast
